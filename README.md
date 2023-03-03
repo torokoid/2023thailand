@@ -112,12 +112,12 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
-<h1><span class="yellow"><marquee behavior="left">!!! 2018年忘年会 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2023年タイ旅行 !!!</marquee></span></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
     
-<h2><span class="snow">2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、チェンライエリア情報</span></h2>
+<h2><span class="snow">2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、パタヤ、チェンライエリア情報</span></h2>
 
 
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
@@ -194,7 +194,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
 <footer>
-    <p><span class="grey">Copyright S.Hada 2018 @ 1G1</span></p>
+    <p><span class="grey">Copyright S.Hada 2023 @ RTID</span></p>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
