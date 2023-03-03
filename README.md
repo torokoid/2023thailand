@@ -120,7 +120,7 @@ a.p:hover span {
 <h2><span class="snow">ジュース早飲み競争、豊田さん一番！&emsp;&emsp;&emsp;集合写真、背景と同じものです</span></h2>
 
 
-
+<a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
