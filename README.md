@@ -173,6 +173,7 @@ a.p:hover span {
 <a href="Thailand_045.jpg" data-lightbox="abc"><img src="Thailand_045.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_046.jpg" data-lightbox="abc"><img src="Thailand_046.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_047.jpg" data-lightbox="abc"><img src="Thailand_047.jpg" alt="サンプル画像" width="900" /></a>
+	<p>絵画の展示即売会開催中（撮影がフリーなのはタイの緩いところ）
 <a href="Thailand_048.jpg" data-lightbox="abc"><img src="Thailand_048.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_049.jpg" data-lightbox="abc"><img src="Thailand_049.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_050.jpg" data-lightbox="abc"><img src="Thailand_050.jpg" alt="サンプル画像" width="450" /></a>
@@ -183,7 +184,7 @@ a.p:hover span {
 <a href="Thailand_055.jpg" data-lightbox="abc"><img src="Thailand_055.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_056.jpg" data-lightbox="abc"><img src="Thailand_056.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_057.jpg" data-lightbox="abc"><img src="Thailand_057.jpg" alt="サンプル画像" width="450" /></a>
-	<p>作者は2517年 = 1974年生まれの49歳</p>
+	<p>作者は2517年、2517 - 543 = 1974年生まれの49歳</p>
 <a href="Thailand_058.jpg" data-lightbox="abc"><img src="Thailand_058.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_059.jpg" data-lightbox="abc"><img src="Thailand_059.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_060.jpg" data-lightbox="abc"><img src="Thailand_060.jpg" alt="サンプル画像" width="900" /></a>
