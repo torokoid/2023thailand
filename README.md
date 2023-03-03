@@ -123,16 +123,16 @@ a.p:hover span {
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
-<a href="Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="<h2>Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_004.jpg" data-lightbox="abc"><img src="Thailand_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_005.jpg" data-lightbox="abc"><img src="Thailand_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_006.jpg" data-lightbox="abc"><img src="Thailand_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_007.jpg" data-lightbox="abc"><img src="Thailand_007.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_072.jpg" data-lightbox="abc"><img src="Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
-	<p><span class="blue">観光地はロシア人が目立ちます</span></p>
+	<h2><span class="blue">観光地はロシア人が目立ちます</span></h2>
 <a href="Thailand_071.jpg" data-lightbox="abc"><img src="Thailand_071.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_069.jpg" data-lightbox="abc"><img src="Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
-	<p><span class="blue">中国人も居ましたが、ごく少数</span></p>
+	<h2><span class="blue">中国人も居ましたが、ごく少数</span></h2>
 <a href="Thailand_070.jpg" data-lightbox="abc"><img src="Thailand_070.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_018.jpg" data-lightbox="abc"><img src="Thailand_018.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_008.jpg" data-lightbox="abc"><img src="Thailand_008.jpg" alt="サンプル画像" width="900" /></a>
@@ -162,7 +162,7 @@ a.p:hover span {
 <a href="Thailand_032.jpg" data-lightbox="abc"><img src="Thailand_032.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_033.jpg" data-lightbox="abc"><img src="Thailand_033.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_034.jpg" data-lightbox="abc"><img src="Thailand_034.jpg" alt="サンプル画像" width="900" /></a>
-	<p><span class="blue">おみくじは生まれた曜日で引く決まりで木曜は午前午後も切り分け</span></p>
+	<h2><span class="blue">おみくじは生まれた曜日で引く決まりで木曜は午前午後も切り分け</span></h2>
 <a href="Thailand_035.jpg" data-lightbox="abc"><img src="Thailand_035.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
@@ -176,7 +176,7 @@ a.p:hover span {
 <a href="Thailand_045.jpg" data-lightbox="abc"><img src="Thailand_045.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_046.jpg" data-lightbox="abc"><img src="Thailand_046.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_047.jpg" data-lightbox="abc"><img src="Thailand_047.jpg" alt="サンプル画像" width="900" /></a>
-	<p><span class="blue">絵画の展示即売会開催中（撮影がフリーなのはタイの緩いところ）</span></p>
+	<h2><span class="blue">絵画の展示即売会開催中（撮影がフリーなのはタイの緩いところ）</span></h2>
 <a href="Thailand_048.jpg" data-lightbox="abc"><img src="Thailand_048.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_049.jpg" data-lightbox="abc"><img src="Thailand_049.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_050.jpg" data-lightbox="abc"><img src="Thailand_050.jpg" alt="サンプル画像" width="450" /></a>
@@ -187,9 +187,9 @@ a.p:hover span {
 <a href="Thailand_055.jpg" data-lightbox="abc"><img src="Thailand_055.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_056.jpg" data-lightbox="abc"><img src="Thailand_056.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_057.jpg" data-lightbox="abc"><img src="Thailand_057.jpg" alt="サンプル画像" width="450" /></a>
-	<p><span class="blue">作者は2517年、2517 - 543 = 1974年生まれの49歳</span></p>
+	<h2><span class="blue">作者は2517年、2517 - 543 = 1974年生まれの49歳</span></h2>
 <a href="Thailand_058.jpg" data-lightbox="abc"><img src="Thailand_058.jpg" alt="サンプル画像" width="900" /></a>
-	<p><span class="blue">北部方面にしかない、竹の筒の中に詰めたもち米のごはん・・・バンコクにはありません</span></p>
+	<h2><span class="blue">北部方面にしかない、竹の筒の中に詰めたもち米のごはん・・・バンコクにはありません</span></h2>
 <a href="Thailand_059.jpg" data-lightbox="abc"><img src="Thailand_059.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_060.jpg" data-lightbox="abc"><img src="Thailand_060.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_061.jpg" data-lightbox="abc"><img src="Thailand_061.jpg" alt="サンプル画像" width="900" /></a>
@@ -205,7 +205,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
 <footer>
-    <p><span class="snow">Copyright S.Hada 2023 @ RTID</span></p>
+    <h2><span class="snow">Copyright S.Hada 2023 @ RTID</span></h2>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
