@@ -143,7 +143,6 @@ a.p:hover span {
 <a href="Thailand_015.jpg" data-lightbox="abc"><img src="Thailand_015.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_016.jpg" data-lightbox="abc"><img src="Thailand_016.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_017.jpg" data-lightbox="abc"><img src="Thailand_017.jpg" alt="サンプル画像" width="900" /></a>
-
 <a href="Thailand_019.jpg" data-lightbox="abc"><img src="Thailand_019.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_020.jpg" data-lightbox="abc"><img src="Thailand_020.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_021.jpg" data-lightbox="abc"><img src="Thailand_021.jpg" alt="サンプル画像" width="900" /></a>
@@ -155,6 +154,7 @@ a.p:hover span {
 <a href="Thailand_027.jpg" data-lightbox="abc"><img src="Thailand_027.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_028.jpg" data-lightbox="abc"><img src="Thailand_028.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_073.jpg" data-lightbox="abc"><img src="Thailand_073.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_030.jpg" data-lightbox="abc"><img src="Thailand_030.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_031.jpg" data-lightbox="abc"><img src="Thailand_031.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_032.jpg" data-lightbox="abc"><img src="Thailand_032.jpg" alt="サンプル画像" width="900" /></a>
