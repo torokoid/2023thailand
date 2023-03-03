@@ -191,7 +191,7 @@ a.p:hover span {
 <a href="Thailand_057.jpg" data-lightbox="abc"><img src="Thailand_057.jpg" alt="サンプル画像" width="450" /></a>
 	<h2><span class="blue">作者は2517年、2517 - 543 = 1974年生まれの49歳</span></h2>
 <a href="Thailand_058.jpg" data-lightbox="abc"><img src="Thailand_058.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">北部方面にしかない、竹の筒の中に詰めたもち米のごはん<br>・・・バンコクにはありません</span></h2>
+	<h2><span class="blue">北部方面にしかない、竹の筒の中に詰めたもち米のごはん<br>・・・・バンコクにはありません・・・・</span></h2>
 <a href="Thailand_059.jpg" data-lightbox="abc"><img src="Thailand_059.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_060.jpg" data-lightbox="abc"><img src="Thailand_060.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_061.jpg" data-lightbox="abc"><img src="Thailand_061.jpg" alt="サンプル画像" width="900" /></a>
