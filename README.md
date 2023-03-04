@@ -121,7 +121,7 @@ a.p:hover span {
     
 <h2><span class="snow">2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、パタヤ、チェンライエリア情報</span></h2>
 
-<h2><span class="snow">宿の裏の川にはワニのサイズのトカゲが居るとのこと。</span></h2>
+<h2><span class="blue">宿の裏の川にはワニのサイズのトカゲが居るとのこと。</span></h2>
 
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
@@ -132,7 +132,7 @@ a.p:hover span {
 <a href="Thailand_006.jpg" data-lightbox="abc"><img src="Thailand_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_007.jpg" data-lightbox="abc"><img src="Thailand_007.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_072.jpg" data-lightbox="abc"><img src="Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">観光地はロシア人が目立ちます<be>
+	<h2><span class="blue">観光地はロシア人が目立ちます<br>
 ロビーにはヘッドギヤで通話するおじさん</span></h2>
 <a href="Thailand_071.jpg" data-lightbox="abc"><img src="Thailand_071.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_069.jpg" data-lightbox="abc"><img src="Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
