@@ -121,18 +121,17 @@ a.p:hover span {
     
 <h2><span class="snow">2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、パタヤ、チェンライエリア情報</span></h2>
 
-<h2><span class="blue">宿の裏の川にはワニのサイズのトカゲが居るとの事。</span></h2>
 
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
-<a href="Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="<h2>Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_004.jpg" data-lightbox="abc"><img src="Thailand_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_005.jpg" data-lightbox="abc"><img src="Thailand_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_006.jpg" data-lightbox="abc"><img src="Thailand_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_007.jpg" data-lightbox="abc"><img src="Thailand_007.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_072.jpg" data-lightbox="abc"><img src="Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">観光地はロシア人が目立ちます<br>
+	<h2><span class="blue">観光地はロシア人が目立ちます<be>
 ロビーにはヘッドギヤで通話するおじさん</span></h2>
 <a href="Thailand_071.jpg" data-lightbox="abc"><img src="Thailand_071.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_069.jpg" data-lightbox="abc"><img src="Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
@@ -200,8 +199,17 @@ a.p:hover span {
 <a href="Thailand_062.jpg" data-lightbox="abc"><img src="Thailand_062.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_063.jpg" data-lightbox="abc"><img src="Thailand_063.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_064.jpg" data-lightbox="abc"><img src="Thailand_064.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">深夜便で移動して2月26日朝7時に成田空港着</span></h2>
+
 <a href="Thailand_065.jpg" data-lightbox="abc"><img src="Thailand_065.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">帰り道の筑波山が綺麗でした。</span></h2>
+
 <a href="Thailand_066.jpg" data-lightbox="abc"><img src="Thailand_066.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">宇都宮の梅は満開中。</span></h2>
+
 <a href="Thailand_067.jpg" data-lightbox="abc"><img src="Thailand_067.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_068.jpg" data-lightbox="abc"><img src="Thailand_068.jpg" alt="サンプル画像" width="900" /></a>
 
