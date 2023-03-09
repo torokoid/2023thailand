@@ -238,7 +238,7 @@ a.p:hover span {
 
 <h2><span class="blue">1時間弱南下してショッピングモールを訪問</span></h2>
 
-<a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_038.png" data-lightbox="abc"><img src="Thailand_038.png" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">子供たちはトラックの荷台が大好き</span></h2>
 <a href="Thailand_039.jpg" data-lightbox="abc"><img src="Thailand_039.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_040.jpg" data-lightbox="abc"><img src="Thailand_040.jpg" alt="サンプル画像" width="900" /></a>
