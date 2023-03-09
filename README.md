@@ -148,6 +148,7 @@ a.p:hover span {
 <a href="Thailand_070.jpg" data-lightbox="abc"><img src="Thailand_070.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">次は北部の都市チェンライに移動、有名なチェンマイの北東に位置します</span></h2>
 <a href="Thailand_018.jpg" data-lightbox="abc"><img src="Thailand_018.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">スクーターに一家4人で乗ります、ハンドルを握るのはお母さん</span></h2>
 <a href="Thailand_008.jpg" data-lightbox="abc"><img src="Thailand_008.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_009.jpg" data-lightbox="abc"><img src="Thailand_009.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_010.jpg" data-lightbox="abc"><img src="Thailand_010.jpg" alt="サンプル画像" width="900" /></a>
