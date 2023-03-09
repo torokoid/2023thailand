@@ -234,12 +234,17 @@ a.p:hover span {
 <h2><span class="blue">1時間弱南下してショッピングモールを訪問</span></h2>
 
 <a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">子供たちはトラックの荷台が大好き</span></h2>
 <a href="Thailand_039.jpg" data-lightbox="abc"><img src="Thailand_039.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_040.jpg" data-lightbox="abc"><img src="Thailand_040.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">入り口の脇には宝くじ売り場、このスタイルはたくさん見ました</span></h2>
 <a href="Thailand_041.jpg" data-lightbox="abc"><img src="Thailand_041.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">ショッピングモールはかなりの規模でした</span></h2>
 <a href="Thailand_042.jpg" data-lightbox="abc"><img src="Thailand_042.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_043.jpg" data-lightbox="abc"><img src="Thailand_043.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">フードコートでタイラーメンをいただきました</span></h2>
 <a href="Thailand_044.jpg" data-lightbox="abc"><img src="Thailand_044.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">夜のイルミネーションはかなり独特</span></h2>
 <a href="Thailand_045.jpg" data-lightbox="abc"><img src="Thailand_045.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_046.jpg" data-lightbox="abc"><img src="Thailand_046.jpg" alt="サンプル画像" width="900" /></a>
 
