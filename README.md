@@ -198,7 +198,13 @@ a.p:hover span {
 	<h2><span class="blue">トイレは有料で５バーツ・・・約20円</span></h2>
 <a href="Thailand_026.jpg" data-lightbox="abc"><img src="Thailand_026.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_027.jpg" data-lightbox="abc"><img src="Thailand_027.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">東に移動してラオス国境の近くの寺院を訪問</span></h2>
+
 <a href="Thailand_028.jpg" data-lightbox="abc"><img src="Thailand_028.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">タイの犬は全て放し飼いでした</span></h2>
+
 <a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_073.jpg" data-lightbox="abc"><img src="Thailand_073.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_030.jpg" data-lightbox="abc"><img src="Thailand_030.jpg" alt="サンプル画像" width="900" /></a>
@@ -221,7 +227,7 @@ a.p:hover span {
 <a href="Thailand_045.jpg" data-lightbox="abc"><img src="Thailand_045.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_046.jpg" data-lightbox="abc"><img src="Thailand_046.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_047.jpg" data-lightbox="abc"><img src="Thailand_047.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">絵画の展示即売会開催中（撮影がフリーなのはタイの緩いところ）</span></h2>
+	<h2><span class="blue">絵画の展示即売会開催中<be>（撮影がフリーなのはタイの緩いところ）</span></h2>
 <a href="Thailand_048.jpg" data-lightbox="abc"><img src="Thailand_048.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_049.jpg" data-lightbox="abc"><img src="Thailand_049.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_050.jpg" data-lightbox="abc"><img src="Thailand_050.jpg" alt="サンプル画像" width="450" /></a>
