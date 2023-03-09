@@ -221,7 +221,14 @@ a.p:hover span {
 <a href="Thailand_034.jpg" data-lightbox="abc"><img src="Thailand_034.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">おみくじは生まれた曜日で引く決まりで木曜は午前午後も切り分け<br>左から日、月、火、水、木AM、木PM、金、土</span></h2>
 <a href="Thailand_035.jpg" data-lightbox="abc"><img src="Thailand_035.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">お寺の説明もQRコードでDX対応<be>
+画面から読み込めます</span></h2>
+
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">1時間弱南下してショッピングモールを訪問</span></h2>
+
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_039.jpg" data-lightbox="abc"><img src="Thailand_039.jpg" alt="サンプル画像" width="900" /></a>
