@@ -165,13 +165,17 @@ a.p:hover span {
 	<h2><span class="blue">店員さんが満面の笑みでピースサイン<br>
 しゃべるまで男だとは分かりませんでした</span></h2>
 <a href="Thailand_017.jpg" data-lightbox="abc"><img src="Thailand_017.jpg" alt="サンプル画像" width="900" /></a>
-	
+	<h2><span class="blue">車で１時間ほど北上すると、国境の街メーサーイ</span></h2>
 <a href="Thailand_019.jpg" data-lightbox="abc"><img src="Thailand_019.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">アーケード街はあまりにも巨大なので、中の移動はスクーターの様です</span></h2>
 <a href="Thailand_020.jpg" data-lightbox="abc"><img src="Thailand_020.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">物流の拠点らしく、さまざまな商品が並びます</span></h2>
 <a href="Thailand_021.jpg" data-lightbox="abc"><img src="Thailand_021.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_022.jpg" data-lightbox="abc"><img src="Thailand_022.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_023.jpg" data-lightbox="abc"><img src="Thailand_023.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">ミャンマーとの国境ゲートの門</span></h2>
 <a href="Thailand_024.jpg" data-lightbox="abc"><img src="Thailand_024.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">門の向こう側はミャンマーです</span></h2>
 <a href="Thailand_025.jpg" data-lightbox="abc"><img src="Thailand_025.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_026.jpg" data-lightbox="abc"><img src="Thailand_026.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_027.jpg" data-lightbox="abc"><img src="Thailand_027.jpg" alt="サンプル画像" width="900" /></a>
