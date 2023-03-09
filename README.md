@@ -206,7 +206,13 @@ a.p:hover span {
 <h2><span class="blue">タイの犬は全て放し飼いでした</span></h2>
 
 <a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">ご本尊は煉瓦積みの筒の中らしいです</span></h2>
+
 <a href="Thailand_073.jpg" data-lightbox="abc"><img src="Thailand_073.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">お賽銭箱(壺)</span></h2>
+
 <a href="Thailand_030.jpg" data-lightbox="abc"><img src="Thailand_030.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_031.jpg" data-lightbox="abc"><img src="Thailand_031.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_032.jpg" data-lightbox="abc"><img src="Thailand_032.jpg" alt="サンプル画像" width="900" /></a>
