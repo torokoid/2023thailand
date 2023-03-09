@@ -227,9 +227,12 @@ a.p:hover span {
 
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="blue">1時間弱南下してショッピングモールを訪問</span></h2>
+<h2><span class="blue">カーボンのロードバイク5台も積んだトラック</span></h2>
 
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">1時間弱南下してショッピングモールを訪問</span></h2>
+
 <a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_039.jpg" data-lightbox="abc"><img src="Thailand_039.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_040.jpg" data-lightbox="abc"><img src="Thailand_040.jpg" alt="サンプル画像" width="900" /></a>
@@ -239,6 +242,9 @@ a.p:hover span {
 <a href="Thailand_044.jpg" data-lightbox="abc"><img src="Thailand_044.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_045.jpg" data-lightbox="abc"><img src="Thailand_045.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_046.jpg" data-lightbox="abc"><img src="Thailand_046.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">制服の背中が落書きだらけの女子高生</span></h2>
+
 <a href="Thailand_047.jpg" data-lightbox="abc"><img src="Thailand_047.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">絵画の展示即売会開催中<br>（撮影がフリーなのはタイの緩いところ）</span></h2>
 <a href="Thailand_048.jpg" data-lightbox="abc"><img src="Thailand_048.jpg" alt="サンプル画像" width="450" /></a>
