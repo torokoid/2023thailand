@@ -126,6 +126,8 @@ a.p:hover span {
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">街の至るところに仏壇があります</span></h2>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">一般のご家庭だと、このサイズ</span></h2>
+<a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">タイ人の車のインパネには仏像が鎮座、この車にはルームミラーからもぶら下がってます</span></h2>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">タイヤがはみ出すのは合法らしい</span></h2>
@@ -296,6 +298,19 @@ a.p:hover span {
 
 <a href="Thailand_067.jpg" data-lightbox="abc"><img src="Thailand_067.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_068.jpg" data-lightbox="abc"><img src="Thailand_068.jpg" alt="サンプル画像" width="900" /></a>
+
+<br><br><br><br>
+<h2><span class="red">位置情報の取得方法</span></h2>
+<h2><span class="blue">今回の移動ではAPRS信号で位置情報を取得しました<br>
+APRSとはアマチュア無線機でGPS情報を共有する仕組みですが、<br>
+今回はスマホアプリの無線機で代用しています</span></h2>
+
+<a href="https://hamata636.github.io/2023thailand/Thailand_074.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_074.jpg" alt="サンプル画像" width="900" /></a>
+<a href="https://hamata636.github.io/2023thailand/Thailand_075.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_075.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">タイのアマチュア無線家たちも位置情報出してます</span></h2>
+<a href="https://hamata636.github.io/2023thailand/Thailand_076.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_076.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">ミャンマーとラオス、ベトナムはゼロ、中国は都市部で信号が出てました</span></h2>
+<a href="https://hamata636.github.io/2023thailand/Thailand_077.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_077.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
