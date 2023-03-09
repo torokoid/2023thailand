@@ -160,10 +160,12 @@ a.p:hover span {
 <a href="Thailand_013.jpg" data-lightbox="abc"><img src="Thailand_013.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_014.jpg" data-lightbox="abc"><img src="Thailand_014.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_015.jpg" data-lightbox="abc"><img src="Thailand_015.jpg" alt="サンプル画像" width="900" /></a>
+	
+<a href="Thailand_016.jpg" data-lightbox="abc"><img src="Thailand_016.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">店員さんが満面の笑みでピースサイン<br>
 しゃべるまで男だとは分かりませんでした</span></h2>
-<a href="Thailand_016.jpg" data-lightbox="abc"><img src="Thailand_016.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_017.jpg" data-lightbox="abc"><img src="Thailand_017.jpg" alt="サンプル画像" width="900" /></a>
+	
 <a href="Thailand_019.jpg" data-lightbox="abc"><img src="Thailand_019.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_020.jpg" data-lightbox="abc"><img src="Thailand_020.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_021.jpg" data-lightbox="abc"><img src="Thailand_021.jpg" alt="サンプル画像" width="900" /></a>
