@@ -222,7 +222,7 @@ a.p:hover span {
 	<h2><span class="blue">おみくじは生まれた曜日で引く決まりで木曜は午前午後も切り分け<br>左から日、月、火、水、木AM、木PM、金、土</span></h2>
 <a href="Thailand_035.jpg" data-lightbox="abc"><img src="Thailand_035.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="blue">お寺の説明もQRコードでDX対応<be>
+<h2><span class="blue">お寺の説明もQRコードでDX対応<br>
 画面から読み込めます</span></h2>
 
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
