@@ -136,6 +136,7 @@ a.p:hover span {
 	<h2><span class="blue">観光地はロシア人が目立ちます<br>
 ロビーにはヘッドギヤで通話するおじさん</span></h2>
 <a href="Thailand_071.jpg" data-lightbox="abc"><img src="Thailand_071.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">可愛らしい女の子連れたロシア人、後ろの席にいるのがお父さんでした</span></h2>
 <a href="Thailand_069.jpg" data-lightbox="abc"><img src="Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">中国人も居ましたが、ごく少数</span></h2>
 <a href="Thailand_070.jpg" data-lightbox="abc"><img src="Thailand_070.jpg" alt="サンプル画像" width="900" /></a>
