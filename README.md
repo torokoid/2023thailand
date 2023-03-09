@@ -177,6 +177,7 @@ a.p:hover span {
 <a href="Thailand_024.jpg" data-lightbox="abc"><img src="Thailand_024.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">門の向こう側はミャンマーです</span></h2>
 <a href="Thailand_025.jpg" data-lightbox="abc"><img src="Thailand_025.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">トイレは有料で５バーツ・・・約20円</span></h2>
 <a href="Thailand_026.jpg" data-lightbox="abc"><img src="Thailand_026.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_027.jpg" data-lightbox="abc"><img src="Thailand_027.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_028.jpg" data-lightbox="abc"><img src="Thailand_028.jpg" alt="サンプル画像" width="900" /></a>
