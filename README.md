@@ -198,6 +198,9 @@ a.p:hover span {
 	<h2><span class="blue">トイレは有料で５バーツ・・・約20円</span></h2>
 <a href="Thailand_026.jpg" data-lightbox="abc"><img src="Thailand_026.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_027.jpg" data-lightbox="abc"><img src="Thailand_027.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">別のトイレですが、タイのトイレの標準的な装備<br>
+左に見えるシャワーが手動のウォシュレット、<br>おしりを吹いたティッシュはトイレに流さずゴミ箱に捨てる決まりなので要注意！</span></h2>
+<a href="https://hamata636.github.io/2023thailand/Thailand_078.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_078.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="blue">東に移動してラオス国境の近くの寺院を訪問</span></h2>
 
