@@ -152,19 +152,20 @@ a.p:hover span {
 
 <h2><span class="blue">パッタヤの屋外型レストラン、ほぼ外国人しかいません。<br>
 日本人は若者が一組だけ確認できました</span></h2>
-<a href="Thailand_074.JPG" data-lightbox="abc"><img src="Thailand_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://hamata636.github.io/2023thailand/Thailand_074.JPG" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_074.JPG" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">ディナータイムはほぼ満席になりました</span></h2>
-<a href="Thailand_075.JPG" data-lightbox="abc"><img src="Thailand_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://hamata636.github.io/2023thailand/Thailand_075.JPG" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_075.JPG" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">BGMは生演奏でした</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJDF14UrWgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h2><span class="blue">パッタヤを堪能したあとはパンコクに戻り、飛行機で北部の都市、チェンライに移動<br>
 チェンライはバンコクに次ぐタイ2番目の都市、チェンマイの東隣の都市</span></h2>
-<a href="Thailand_082.jpg" data-lightbox="abc"><img src="Thailand_082.jpg" alt="サンプル画像" width="900" /></a>
+<a href="https://hamata636.github.io/2023thailand/Thailand_082.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_082.jpg" alt="サンプル画像" width="900" /></a>
 
 
-
+<!--
 	<h2><span class="blue">次は北部の都市チェンライに移動、有名なチェンマイの北東に位置します</span></h2>
 <a href="Thailand_018.jpg" data-lightbox="abc"><img src="Thailand_018.jpg" alt="サンプル画像" width="900" /></a>
+-->
 	<h2><span class="blue">スクーターに一家4人で乗ります、ハンドルを握るのはお母さん</span></h2>
 <a href="Thailand_008.jpg" data-lightbox="abc"><img src="Thailand_008.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">地方都市の朝市、さすがに外国人は私たちだけでした</span></h2>
