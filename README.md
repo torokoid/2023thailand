@@ -126,9 +126,12 @@ a.p:hover span {
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">街の至るところに仏壇があります</span></h2>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">タイ人の車のインパネには仏像が鎮座、この車にはルームミラーからもぶら下がってます</span></h2>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">タイヤがはみ出すのは合法</span></h2>
 <a href="Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_004.jpg" data-lightbox="abc"><img src="Thailand_004.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">高速で荷台に乗るのも合法</span></h2>
 <a href="Thailand_005.jpg" data-lightbox="abc"><img src="Thailand_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_006.jpg" data-lightbox="abc"><img src="Thailand_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_007.jpg" data-lightbox="abc"><img src="Thailand_007.jpg" alt="サンプル画像" width="900" /></a>
