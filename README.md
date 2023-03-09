@@ -131,10 +131,13 @@ a.p:hover span {
 	<h2><span class="blue">タイヤがはみ出すのは合法</span></h2>
 <a href="Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_004.jpg" data-lightbox="abc"><img src="Thailand_004.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">高速で荷台に乗るのも合法</span></h2>
+	<h2><span class="blue">パーキングではボンネット開けて冷却する車が散見されました</span></h2>
 <a href="Thailand_005.jpg" data-lightbox="abc"><img src="Thailand_005.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">高速で荷台に乗るのも合法</span></h2>
 <a href="Thailand_006.jpg" data-lightbox="abc"><img src="Thailand_006.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">この車には3人乗ってました</span></h2>
 <a href="Thailand_007.jpg" data-lightbox="abc"><img src="Thailand_007.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">高速で移動したのはプーケットに並ぶリゾート地のパッタヤ</span></h2>
 <a href="Thailand_072.jpg" data-lightbox="abc"><img src="Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">観光地はロシア人が目立ちます<br>
 ロビーにはヘッドギヤで通話するおじさん</span></h2>
