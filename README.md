@@ -257,11 +257,16 @@ a.p:hover span {
 <a href="Thailand_059.jpg" data-lightbox="abc"><img src="Thailand_059.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="blue">空港内の赤鬼青鬼はマスクしてました</span></h2>
-
 <a href="Thailand_060.jpg" data-lightbox="abc"><img src="Thailand_060.jpg" alt="サンプル画像" width="900" /></a>
 
 <a href="Thailand_061.jpg" data-lightbox="abc"><img src="Thailand_061.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">鬼と人間が大蛇で綱引きするオブジェ</span></h2>
+
 <a href="Thailand_062.jpg" data-lightbox="abc"><img src="Thailand_062.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">空港内には王室直営店もありました</span></h2>
+
 <a href="Thailand_063.jpg" data-lightbox="abc"><img src="Thailand_063.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_064.jpg" data-lightbox="abc"><img src="Thailand_064.jpg" alt="サンプル画像" width="900" /></a>
 
