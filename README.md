@@ -124,9 +124,10 @@ a.p:hover span {
 <h2><span class="blue">宿の裏の川にはワニのサイズのトカゲが居るとのこと。</span></h2>
 
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">街の至るところに仏壇があります</span></h2>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
-<a href="<h2>Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_004.jpg" data-lightbox="abc"><img src="Thailand_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_005.jpg" data-lightbox="abc"><img src="Thailand_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_006.jpg" data-lightbox="abc"><img src="Thailand_006.jpg" alt="サンプル画像" width="900" /></a>
