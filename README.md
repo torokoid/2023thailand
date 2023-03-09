@@ -218,7 +218,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
 <footer>
-    <h2><span class="snow">Copyright S.Hada 2023 @ RTID</span></h2>
+    <h2><span class="snow">Copyright S.Hada 2023 @ 大泉高校、30期</span></h2>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
