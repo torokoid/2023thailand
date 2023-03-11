@@ -278,8 +278,9 @@ a.p:hover span {
 <a href="Thailand_049.jpg" data-lightbox="abc"><img src="Thailand_049.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_050.jpg" data-lightbox="abc"><img src="Thailand_050.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_052.jpg" data-lightbox="abc"><img src="Thailand_052.jpg" alt="サンプル画像" width="450" /></a>
-<a href="Thailand_053.jpg" data-lightbox="abc"><img src="Thailand_053.jpg" alt="サンプル画像" width="450" /></a>
+
 <a href="Thailand_054.jpg" data-lightbox="abc"><img src="Thailand_054.jpg" alt="サンプル画像" width="450" /></a>
+<a href="Thailand_053.jpg" data-lightbox="abc"><img src="Thailand_053.jpg" alt="サンプル画像" width="450" /></a>	
 <a href="Thailand_055.jpg" data-lightbox="abc"><img src="Thailand_055.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_056.jpg" data-lightbox="abc"><img src="Thailand_056.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_057.jpg" data-lightbox="abc"><img src="Thailand_057.jpg" alt="サンプル画像" width="450" /></a>
