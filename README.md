@@ -307,10 +307,10 @@ a.p:hover span {
 
 <br><br><br><br>
 <h2><span class="red">位置情報の取得方法</span></h2>
-<h2><span class="blue">今回の移動ではAPRS信号で位置情報を取得しました<br>
+<h2><span class="blue">今回の移動ではAPRS信号で位置情報を取得しました。<br>
 APRSとはアマチュア無線機でGPS情報を共有する仕組みですが、<br>
 日本の無線機を海外で勝手に使うのは違法行為となります。<br>
-今回はスマホアプリの無線機で代用しています</span></h2>
+今回はスマホアプリの無線機で代用しています。</span></h2>
 
 <a href="https://hamata636.github.io/2023thailand/Thailand_074.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_074.jpg" alt="サンプル画像" width="900" /></a>
 <a href="https://hamata636.github.io/2023thailand/Thailand_075.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_075.jpg" alt="サンプル画像" width="900" /></a>
