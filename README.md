@@ -237,6 +237,10 @@ a.p:hover span {
 
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="blue">尼寺エリアの尼さん達が記念撮影に応じてくれました</span></h2>
+<a href="https://hamata636.github.io/2023thailand/Thailand_079.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_079.jpg" alt="サンプル画像" width="900" /></a>
+<a href="https://hamata636.github.io/2023thailand/Thailand_080.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_080.jpg" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="blue">1時間弱南下してショッピングモールを訪問</span></h2>
 
 <a href="Thailand_038.png" data-lightbox="abc"><img src="Thailand_038.png" alt="サンプル画像" width="900" /></a>
