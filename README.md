@@ -114,15 +114,23 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
-<h1><span class="yellow"><marquee behavior="left">!!! 2023年タイ旅行 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2023年タイ旅行 高校30期:羽田!!!</marquee></span></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
-    
+<h2><span class="blue">コロナ騒ぎが収まりつつある2023年2月、仕事のお休みをいただいてタイ旅行に行ってきました。<br>
+タイのコロナ収束状況はいまいち正確には伝わってはいませんでしたが、現地情報ではほぼ問題なさそうとの事で旅行結構です。<br>
+入国に関してはワクチン接種証明の提示で、スムーズに通れました。<br>
+この画面の背景は昔のタイの状況ですが、今でも田舎に行くとこれに似た状態で、違いは牛車が車になっている辺りだけでした。<br>
+では、以下バンコクの宿の裏側に流れていた川の写真から、順繰りに訪れた場所の説明を綴っていきます。</span></h2>
+	
+	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+	
 <h2><span class="snow">2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、パタヤ、チェンライエリア情報</span></h2>
 
 <h2><span class="blue">宿の裏の川にはワニのサイズのトカゲが居るとのこと。</span></h2>
-
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">街の至るところに仏壇があります</span></h2>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
