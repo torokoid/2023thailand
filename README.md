@@ -308,6 +308,7 @@ a.p:hover span {
 <h2><span class="red">位置情報の取得方法</span></h2>
 <h2><span class="blue">今回の移動ではAPRS信号で位置情報を取得しました<br>
 APRSとはアマチュア無線機でGPS情報を共有する仕組みですが、<br>
+日本の無線機を海外で勝手に使うのは違法行為となります。<br>
 今回はスマホアプリの無線機で代用しています</span></h2>
 
 <a href="https://hamata636.github.io/2023thailand/Thailand_074.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_074.jpg" alt="サンプル画像" width="900" /></a>
@@ -316,6 +317,10 @@ APRSとはアマチュア無線機でGPS情報を共有する仕組みですが�
 <a href="https://hamata636.github.io/2023thailand/Thailand_076.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_076.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">ミャンマーとラオス、ベトナムはゼロ、中国は都市部で信号が出てました</span></h2>
 <a href="https://hamata636.github.io/2023thailand/Thailand_077.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_077.jpg" alt="サンプル画像" width="900" /></a>
+	
+<br><br>
+<h2><span class="red"><a href="https://yamap.com/activities/3245546" target="_blank" class="p"><p>APRSの簡単説明、5分でわかるAPRS,リンク</p></a></span></h2>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
