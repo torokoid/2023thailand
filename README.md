@@ -117,6 +117,8 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 2023年タイ旅行、 高校30期:羽田!!!</marquee></span></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+<h1><span class="blue">掲載概要</span></h1>
 <div class="yellow"> 
 <h1>コロナ騒ぎが収まりつつある2023年2月、仕事のお休みをいただいてタイ旅行に行ってきました。<br>
 タイのコロナ収束状況はいまいち正確には伝わってはいませんでしたが、現地情報ではほぼ問題なさそうとの事で旅行は決行。<br>
