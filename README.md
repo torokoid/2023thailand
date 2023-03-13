@@ -139,7 +139,7 @@ a.p:hover span {
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">一般のご家庭だと、このサイズ</span></h2>
 <a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">タイ人達のの車のインパネにはほぼ漏れなく仏像が鎮座、<br>この車にはルームミラーからもぶら下がってます</span></h2>
+	<h2><span class="blue">タイ人達の車のインパネには、ほぼ漏れなく仏像が鎮座、<br>この車にはルームミラーからもぶら下がってます</span></h2>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">タイヤがはみ出すのは合法らしい</span></h2>
 <a href="Thailand_003.jpg" data-lightbox="abc"><img src="Thailand_003.jpg" alt="サンプル画像" width="900" /></a>
