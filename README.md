@@ -171,7 +171,7 @@ a.p:hover span {
 	<h2><span class="blue">BGMは生演奏でした</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJDF14UrWgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	<h2><span class="blue">パッタヤを堪能した後はバンコクに戻り、市場でお買い物<br>この部分はFaceBookからの引用となります</span></h2>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoshi.hada.12%2Fposts%2Fpfbid0F4okdyLUiwMUh2rWAFQseLUq8oZTPFkfdRj2y1yi6xH11ATEw3McwRrLL2PTZnzBl&show_text=true&width=500" width="500" height="684" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoshi.hada.12%2Fposts%2Fpfbid0F4okdyLUiwMUh2rWAFQseLUq8oZTPFkfdRj2y1yi6xH11ATEw3McwRrLL2PTZnzBl&show_text=true&width=500" width="900" height="1231" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <h2><span class="blue">バンコクから飛行機で北部の都市、チェンライに移動<br>
 人口でタイ8番目の都市チェンマイの北東部の都市がチェンライです<br>
 ちなみに以前はチェンマイが2番目の都市だったようです</span></h2>
