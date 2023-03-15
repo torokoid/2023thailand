@@ -246,6 +246,9 @@ a.p:hover span {
 
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="blue">真ん中のQRコードのリンク先</span></h2>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/mg_G4sBS_Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <h2><span class="blue">カーボンのロードバイク5台も積んだトラック</span></h2>
 
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
