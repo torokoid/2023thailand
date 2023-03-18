@@ -170,7 +170,7 @@ a.p:hover span {
 <a href="https://hamata636.github.io/2023thailand/Thailand_075.JPG" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_075.JPG" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">BGMは生演奏でした</span></h2>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/GJDF14UrWgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	<h2><span class="blue">パッタヤを堪能した後はバンコクに戻り、市場でお買い物<br>この部分はFaceBookからの引用となります</span></h2>
+	<h2><span class="blue">パッタヤを堪能した後はバンコクに戻り、市場でお買い物<br>この部分はFaceBookからの引用となります<br>右上のFマーククリックでFaceBookに飛びます</span></h2>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoshi.hada.12%2Fposts%2Fpfbid0F4okdyLUiwMUh2rWAFQseLUq8oZTPFkfdRj2y1yi6xH11ATEw3McwRrLL2PTZnzBl&show_text=true&width=500" width="500" height="684" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <h2><span class="blue">バンコクから飛行機で北部の都市、チェンライに移動<br>
 人口でタイ8番目の都市チェンマイの北東部の都市がチェンライです<br>
@@ -295,6 +295,10 @@ a.p:hover span {
 <a href="Thailand_057.jpg" data-lightbox="abc"><img src="Thailand_057.jpg" alt="サンプル画像" width="450" /></a>
 	<h2><span class="blue">作者は仏歴2517年、2517 - 543 = 西暦1974年生まれの49歳</span></h2>
 <a href="Thailand_058.jpg" data-lightbox="abc"><img src="Thailand_058.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">展示会の部分もFaceBookのリンク貼ります</span></h2>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsatoshi.hada.12%2Fposts%2Fpfbid0NxwngLeYS2qb1fvJ4GndNRHzj7bfsFaXdRArcDJhxqjj1NdnVzCzKqUceSF2wErPl&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 	<h2><span class="blue">北部方面にしかない、竹の筒の中に詰めたもち米のごはん<br>・・・・バンコクにはありません・・・・</span></h2>
 <a href="Thailand_059.jpg" data-lightbox="abc"><img src="Thailand_059.jpg" alt="サンプル画像" width="900" /></a>
 
